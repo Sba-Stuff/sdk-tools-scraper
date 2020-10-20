@@ -13,3 +13,18 @@ Kind Note:
 If you want to download build tools for linux, just replace "windows" with "linux" in scrapelinks function
 
 If you want to download build tools for Mac, just replace "windows" with "macosx" in scrapelinks function
+
+
+Scrapping
+![Image of Scrapping From Command Line](https://github.com/Sba-Stuff/sdk-tools-scraper/blob/main/BuildToolsScrapper1.PNG)
+
+Folder Creation
+![Image of Auto Folder Creation](https://github.com/Sba-Stuff/sdk-tools-scraper/blob/main/BuildToolsScrapper2.PNG)
+
+Build Tools in Folders
+![Image of Auto Download Files to Created Folders](https://github.com/Sba-Stuff/sdk-tools-scraper/blob/main/BuildToolsScrapper3.PNG)
+
+Done Downloading
+![Image of Printing Done After Downloading](https://github.com/Sba-Stuff/sdk-tools-scraper/blob/main/BuildToolsScrapper4.PNG)
+
+The Complete size of all build tools after download is nearly 2.5 GB
